@@ -5,9 +5,9 @@ This project aims to analyze historical retail sales data to forecast future sal
 
 ### Dataset
 The dataset contains historical sales data from a retail store, including:
-*● Sales transactions (date, product ID, quantity sold, sales price)
-*● Customer information (ID, demographics)
-* ● Product details (category, price, etc.)
+* Sales transactions (date, product ID, quantity sold, sales price)
+* Customer information (ID, demographics)
+* Product details (category, price, etc.)
 
 ### 1. Data Exploration and Preprocessing:
 ● Data Cleaning: Handling missing values, removing duplicates, and correcting
